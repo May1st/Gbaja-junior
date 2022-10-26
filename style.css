@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(blue, white);
-    height: 120vh;}
+    height: 130vh;}
 
 header{
     position: absolute;
@@ -52,10 +52,10 @@ header{
     
 
     span{position: absolute;
-        top: 80%;}
+        top: 85%;}
 
     .home{position: absolute;
-        top: 115%;}
+        top: 120%;}
   
 
 
