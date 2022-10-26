@@ -28,7 +28,7 @@ header{
     margin-top: 5px;}
 
    .hotline{left: 15%;}
-   .email {left: 75%; }
+   .email {left: 70%; }
 
    .school-name{
     font-family: cursive;
@@ -43,7 +43,11 @@ header{
         justify-content: space-evenly;
         height: 300px;
         align-items: flex-end;
+        flex-wrap: wrap;
         }
+
+    .a{
+    }
 
     
 
