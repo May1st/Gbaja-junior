@@ -19,7 +19,7 @@ header{
     background: lightblue; 
     margin-bottom: 5px;}
 
-.hotline, .email{font-size: 12px;
+.hotline, .email{font-size: 8px;
     font-family: sans-serif;
     color: darkslateblue;
     width: 25%;
@@ -27,16 +27,16 @@ header{
     top: 10%;
     margin-top: 5px;}
 
-   .hotline{left: 5%;}
+   .hotline{left: 15%;}
    .email {left: 75%; }
 
    .school-name{
     font-family: cursive;
     color: darkblue;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
-    margin-top: 10px;}
+    margin-top: 20px;}
 
     .flex-items{
         display: flex;
